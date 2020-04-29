@@ -8,7 +8,7 @@
     {
       "id": 2,
       "name": "Notebook Mac Pro",
-      "price": 12000.89
+      "price": "2000.78"
     },
     {
       "id": 3,
@@ -19,6 +19,21 @@
       "name": "ssd 500gb",
       "price": "600.00",
       "id": 4
+    },
+    {
+      "name": "Produto de teste",
+      "price": 200.5,
+      "id": 5
+    },
+    {
+      "name": "outo teste",
+      "price": "45.87",
+      "id": 9
+    },
+    {
+      "name": "music",
+      "price": "89",
+      "id": 10
     }
   ]
 }
